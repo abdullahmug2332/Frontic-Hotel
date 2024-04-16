@@ -1,0 +1,127 @@
+.homeposter{
+    height: 90vh;
+}
+.frontic{
+    font-family: 'Great Vibes', cursive;
+    font-size: 97px;
+    color: white;
+}
+.once{
+    color: white;
+}
+.homesub{
+    position: relative;
+    top: 150px;
+}
+.btn{
+    background-color: #00917c;
+    color: white;
+    border: 0;
+}
+.btn:hover{
+    background-color: #03aa91;
+    color: white;
+    border: 0;
+}
+.aboutmain{
+background-image: linear-gradient( rgba(22, 22, 22, 0),rgba(0, 0, 0, 0.727)) ,url(../images/blog2.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+}
+.about2{
+    margin-top: 50px;
+}
+.aboutimg{
+    position: relative;
+    right: 20px;
+    width:590px ;
+    height:590px ;
+}
+  .af{
+    font-family: 'Great Vibes', cursive;
+    color: #00917c;
+  }
+  .afdata{
+    max-width: 380px;
+    margin-bottom: 40px;
+  }
+  
+/* Extra large devices (large desktops) */
+@media only screen and (min-width: 1200px) {
+    .afc{
+        margin-top: 120px;
+        position: relative;
+        left: 150px;
+    }
+}
+  
+/* Large devices (desktops) */
+@media only screen and (min-width: 992px) and (max-width: 1199.98px) {
+    .afc{
+        margin-top: 120px;
+        position: relative;
+        left: 150px;
+    }
+}
+  
+/* Medium devices (desktops) */
+@media only screen and (min-width: 768px) and (max-width: 991.98px) {
+    .frontic{
+        font-family: 'Great Vibes', cursive;
+        font-size: 80px;
+    }
+    .main{
+        background-position:  center;
+    }
+    .aboutimg{
+        position: relative;
+        right: 20px;
+        width:490px ;
+        height:490px ;
+    }
+    .afc{
+        margin-top: 120px;
+        position: relative;
+        left: 150px;
+    }
+}
+/* Small devices (tablets) */
+@media only screen and (min-width: 576px) and (max-width: 767.98px) {
+    .frontic{
+        font-family: 'Great Vibes', cursive;
+        font-size: 60px;
+    }
+    .main{
+        background-position:  center;
+    }
+    .aboutimg{
+        position: relative;
+        right: 20px;
+        width:350px ;
+        height:350px ;
+    }
+    .afdata{
+        max-width: 480px;
+        margin-bottom: 40px;
+      }
+}
+
+    
+/* Extra small devices (phones) */
+@media only screen and (max-width: 575.98px) {
+    .frontic{
+        font-family: 'Great Vibes', cursive;
+        font-size: 50px;
+    }
+    .main{
+        background-position:  center;
+    }
+    .aboutimg{
+        position: relative;
+        right: 20px;
+        width:350px ;
+        height:350px ;
+    }
+}

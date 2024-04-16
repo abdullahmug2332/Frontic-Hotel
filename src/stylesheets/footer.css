@@ -1,0 +1,63 @@
+footer{
+    background-color: #00917c;
+    color: white;
+
+}
+.fa-facebook{
+    color: #296A8F;
+    background-color: white;
+    font-size: 55px;
+}
+.fa-instagram{
+    color: #FF4500;
+    font-size: 55px;
+}
+.fa-twitter{
+    color: #296A8F;
+    font-size: 55px;
+}
+.fa-youtube{
+    color: red;
+    font-size: 55px;
+}
+.fa-pinterest{
+    color: rgb(251, 48, 48);
+    font-size: 55px;
+}
+.fservices{
+    font-size: 27px;
+    margin-bottom: 14px
+}
+.fitems{
+    font-size: 15px;
+
+}
+/* Extra large devices (large desktops) */
+@media only screen and (min-width: 1200px) {
+    
+}
+  
+/* Large devices (desktops) */
+@media only screen and (min-width: 992px) and (max-width: 1199.98px) {
+    
+}
+  
+/* Medium devices (desktops) */
+@media only screen and (min-width: 768px) and (max-width: 991.98px) {
+    .fa-facebook,.fa-instagram,.fa-youtube,.fa-twitter,.fa-pinterest{
+        font-size: 35px;
+    }
+}
+/* Small devices (tablets) */
+@media only screen and (min-width: 576px) and (max-width: 767.98px) {
+    .fa-facebook,.fa-instagram,.fa-youtube,.fa-twitter,.fa-pinterest{
+        font-size: 25px;
+    }
+}
+    
+/* Extra small devices (phones) */
+@media only screen and (max-width: 575.98px) {
+    .fa-facebook,.fa-instagram,.fa-youtube,.fa-twitter,.fa-pinterest{
+        font-size: 25px;
+    } 
+}
