@@ -21,7 +21,7 @@ export default function About() {
                 <div className="container-fluid">
                     <div className="row ">
                         <div className="col-md-6">
-                            <img className='aboutimg' src={mainpic} alt=""/>
+                            <img className='aboutimg mb-5' src={mainpic} alt=""/>
                         </div>
                         <div className="col-md-6 afc">
                             <h1 className='af '>About Frontic</h1>

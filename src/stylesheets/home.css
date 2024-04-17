@@ -3,7 +3,7 @@
 }
 .frontic{
     font-family: 'Great Vibes', cursive;
-    font-size: 97px;
+    font-size: 27px;
     color: white;
 }
 .once{
@@ -62,7 +62,7 @@ color: #03aa91;
 @media only screen and (min-width: 768px) and (max-width: 991.98px) {
     .frontic{
         font-family: 'Great Vibes', cursive;
-        font-size: 80px;
+        font-size: 70px;
     }
     .main{
         background-position:  center;
@@ -78,7 +78,7 @@ color: #03aa91;
 @media only screen and (min-width: 576px) and (max-width: 767.98px) {
     .frontic{
         font-family: 'Great Vibes', cursive;
-        font-size: 60px;
+        font-size: 50px;
     }
 
     .main{
@@ -93,7 +93,7 @@ color: #03aa91;
 @media only screen and (max-width: 575.98px) {
     .frontic{
         font-family: 'Great Vibes', cursive;
-        font-size: 50px;
+        font-size: 40px;
     }
 
     .main{
