@@ -16,7 +16,7 @@ export default function Home() {
                     <div className="homesub container text-center ">
                         <h1 className='frontic'>Frontic</h1>
                         <h2 className='once'> Once a year go someplace you've never been before.</h2>
-                        <NavLink to="/about" className='btn btn-primary btn-md btn-md-lg mt-2 py-2 py-md-3 px-4 px-md-5 rounded-5 '>Book Now</NavLink>
+                        <NavLink to="/booking" className='btn btn-primary btn-md btn-md-lg mt-2 py-2 py-md-3 px-4 px-md-5 rounded-5 '>Book Now</NavLink>
                     </div>
                 </div>
             </div>
