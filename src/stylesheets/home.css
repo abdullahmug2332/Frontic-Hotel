@@ -67,6 +67,12 @@ color: #03aa91;
     .main{
         background-position:  center;
     }
+    .main{
+        background-image: linear-gradient( rgba(22, 22, 22, 0),rgba(0, 0, 0, 0.727)) ,url(../images/mainpic2.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        }
 }
 /* Small devices (tablets) */
 @media only screen and (min-width: 576px) and (max-width: 767.98px) {
@@ -77,6 +83,12 @@ color: #03aa91;
     .main{
         background-position:  center;
     }
+    .main{
+        background-image: linear-gradient( rgba(22, 22, 22, 0),rgba(0, 0, 0, 0.727)) ,url(../images/mainpic2.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        }
 }
     
 /* Extra small devices (phones) */
@@ -88,4 +100,10 @@ color: #03aa91;
     .main{
         background-position:  center;
     }
+    .main{
+        background-image: linear-gradient( rgba(22, 22, 22, 0),rgba(0, 0, 0, 0.727)) ,url(../images/mainpic2.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        }
 }
