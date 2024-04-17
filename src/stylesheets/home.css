@@ -85,7 +85,7 @@ color: #03aa91;
         background-image: linear-gradient( rgba(22, 22, 22, 0),rgba(0, 0, 0, 0.727)) ,url(../images/mainpic2.jpg);
         background-repeat: no-repeat;
 
-
+        background-attachment: fixed;
         }
 }
     
@@ -100,6 +100,6 @@ color: #03aa91;
         background-image: linear-gradient( rgba(22, 22, 22, 0),rgba(0, 0, 0, 0.727)) ,url(../images/mainpic2.jpg);
         background-repeat: no-repeat;
 
-
+        background-attachment: fixed;
         }
 }
