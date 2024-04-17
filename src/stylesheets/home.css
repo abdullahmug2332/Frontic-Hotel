@@ -80,13 +80,11 @@ color: #03aa91;
         font-family: 'Great Vibes', cursive;
         font-size: 60px;
     }
-    .main{
-        background-position:  center;
-    }
+
     .main{
         background-image: linear-gradient( rgba(22, 22, 22, 0),rgba(0, 0, 0, 0.727)) ,url(../images/mainpic2.jpg);
         background-repeat: no-repeat;
-        background-size: cover;
+
         background-attachment: fixed;
         }
 }
@@ -97,13 +95,11 @@ color: #03aa91;
         font-family: 'Great Vibes', cursive;
         font-size: 50px;
     }
-    .main{
-        background-position:  center;
-    }
+
     .main{
         background-image: linear-gradient( rgba(22, 22, 22, 0),rgba(0, 0, 0, 0.727)) ,url(../images/mainpic2.jpg);
         background-repeat: no-repeat;
-        background-size: cover;
+
         background-attachment: fixed;
         }
 }
