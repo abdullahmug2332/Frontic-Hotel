@@ -23,7 +23,7 @@ export default function Home() {
             <div className="home2">
                 <div className="container ">
                     <h1 className='blogposts'>Blog Posts</h1>
-                    <div className="row d-flex ms-0 ms-lg-0 justify-content-center flex-row align-items-center">
+                    <div className="row d-flex  justify-content-center flex-row align-items-center">
                         <div className="col-md-4  d-flex justify-content-center mb-5">
                             <div className="card border-0 shadow-lg">
                                 <img src={blog1} className="card-img-top" alt="..." />

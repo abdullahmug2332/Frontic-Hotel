@@ -35,7 +35,7 @@ export default function Footer() {
 
                     </div>
                 </div>
-                <div className="col-12 text-center my-3 mt-5">Copyright ©2023 All rights reserved | Frontic </div>
+                <div className="col-12 cp text-center my-3 mt-5">Copyright ©2023 All rights reserved | Frontic </div>
             </div>
         </div>
     </footer>

@@ -21,11 +21,11 @@ export default function Booking() {
                     <div className="row text-center py-5">
                         <div className="col-md-4">
                             <h4 className='bn'>Date Arrival</h4>
-                            <input type="date" className='w-75 text-center p-1 bnn shadow-lg'/>
+                            <input type="date" className='w-75 mb-4 mb-md-0 text-center p-1 bnn shadow-lg'/>
                         </div>
                         <div className="col-md-4">
                             <h4 className='bn'>Date Departure</h4>
-                            <input type="date" className='w-75 text-center p-1 bnn shadow-lg' />
+                            <input type="date" className='w-75 mb-4 mb-md-0 text-center p-1 bnn shadow-lg' />
                         </div>
                         <div className="col-md-4">
                             <h4 className='bn'>Select Persons</h4>

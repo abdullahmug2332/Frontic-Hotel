@@ -53,6 +53,9 @@ footer{
     .fa-facebook,.fa-instagram,.fa-youtube,.fa-twitter,.fa-pinterest{
         font-size: 25px;
     }
+    .cp{
+        font-size: 10px;
+    }
 }
     
 /* Extra small devices (phones) */
@@ -60,4 +63,7 @@ footer{
     .fa-facebook,.fa-instagram,.fa-youtube,.fa-twitter,.fa-pinterest{
         font-size: 25px;
     } 
+    .cp{
+        font-size: 10px;
+    }
 }

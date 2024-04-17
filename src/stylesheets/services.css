@@ -67,6 +67,9 @@ background-attachment: fixed;
     .once{
         font-size: 20px;
     }
+    .os{
+        font-size: 50px;
+    }
 }
 /* Small devices (tablets) */
 @media only screen and (min-width: 576px) and (max-width: 767.98px) {
@@ -76,6 +79,17 @@ background-attachment: fixed;
     .once{
         font-size: 18px;
     }
+    .servicesmain{
+        background-image: linear-gradient( rgba(22, 22, 22, 0),rgba(0, 0, 0, 0.727)) ,url(../images/hotelstaff2.jpg)!important ;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+
+        }
+        .os{
+            font-size: 40px;
+        }
 }
     
 /* Extra small devices (phones) */
@@ -86,4 +100,14 @@ background-attachment: fixed;
     .once{
         font-size: 15px;
     }
+    .servicesmain{
+        background-image: linear-gradient( rgba(22, 22, 22, 0),rgba(0, 0, 0, 0.727)) ,url(../images/hotelstaff2.jpg)!important ;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+        }
+        .os{
+            font-size: 30px;
+        }    
 }
